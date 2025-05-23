@@ -1,1 +1,2 @@
-# SUmmary_TG_Bot
+# Summabot
+Code for project on simple summarizer of processess.
